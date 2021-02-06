@@ -18,7 +18,7 @@ export const Footer = () => (
   <Styles>
     <div className='footerlayout'>
       <Container>
-        <p>© 2019 ReactHunt.com. All rights reserved </p>
+        <p>© 2021 mylesbanner.com All rights reserved </p>
       </Container>
     </div>
   </Styles>

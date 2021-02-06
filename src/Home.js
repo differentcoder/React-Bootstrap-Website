@@ -11,8 +11,8 @@ export const Home = () => (
         />
       </Col>
       <Col sm={5}>
-        <h2>React Hunt </h2>
-        <p>
+        <h1>React Hunt </h1>
+        <div>
           ReactJS is one of the best JavaScript libraries which is widely known
           for its adjustable and extensible nature. We make the best use of its
           exceptional feature of component reusability. Our experts attain
@@ -23,7 +23,7 @@ export const Home = () => (
           its scope by creating awesome user interfaces and web applications.
           So, hire ReactJS developer from us and let your dreams of having great
           online presence come true.{' '}
-        </p>
+        </div>
       </Col>
     </div>
   </div>
