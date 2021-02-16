@@ -44,36 +44,36 @@ export const About = () => (
         <div className='about-desc'>
           <h1>Hi, I Am Minhaj</h1>
           <h2>full stack developer</h2>
-          <p>
+          <div>
             A web application developer and Exclusive author at ThemeForest. I
             received my Bachelor of Science(B.sc) degree in computer science and
             engineering(CSE) from PCIU. I am the enthusiastic, reliable and
             hardworking individual who has over 6+ years experience in web
             application design and development.
-          </p>
+          </div>
         </div>
         <div className='man-details'>
           <div className='row'>
             <div className='col-md-6'>
               <p>
-                <b>Education:</b> Bsc in CSE
+                <strong>Education:</strong>
               </p>
               <p>
-                <b>Address:</b> Chittagong, Bangladesh
+                <strong>Address:</strong> Austin, Texas
               </p>
               <p>
-                <b>Nationality:</b> Bangladeshi
+                <strong>Nationality:</strong> United States of America
               </p>
             </div>
             <div className='col-md-6'>
               <p>
-                <b>Phone:</b> +880 1676966260
+                <strong>Phone:</strong> 210.621.8921
               </p>
               <p>
-                <b>Email:</b> differentcoder@gmail.com
+                <strong>Email:</strong> milob92@gmail.com
               </p>
               <p>
-                <b>Website:</b> www.reacthunt.com
+                <strong>Website:</strong> www.mylesbanner.com
               </p>
             </div>
           </div>

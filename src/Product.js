@@ -20,10 +20,9 @@ export const Product = () => (
         </Card.Footer>
       </Card>
       <Card>
-        <Card.Img
-          variant='top'
-          src={require('../src/assets/react-js-pict.png')}
-        />
+        <Card.Img variant='top' src={
+          require('../src/assets/react-js-pict.png')
+          } />
         <Card.Body>
           <Card.Title>React Native Mobile Apps</Card.Title>
           <Card.Text>
@@ -36,10 +35,7 @@ export const Product = () => (
         </Card.Footer>
       </Card>
       <Card>
-        <Card.Img
-          variant='top'
-          src={require('../src/assets/react-js-pict.png')}
-        />
+        <Card.Img variant='top' src={require('../src/assets/react-js-pict.png')} />
         <Card.Body>
           <Card.Title>React API Application</Card.Title>
           <Card.Text>
